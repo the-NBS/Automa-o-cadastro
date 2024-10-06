@@ -3,9 +3,9 @@ from time import sleep
 import subprocess
 
 #Define o diretório para abrir o arquivo
-programa_cadastro = (r'C:/Users/aghas/Desktop/Freelancer/Automação Cadastro/exe.win-amd64-3.10/app.exe')
+programa_cadastro = (r'.../Desktop/Freelancer/Automação Cadastro/exe.win-amd64-3.10/app.exe')
 #Define o diretório para buscar os produtos
-caminho_produtos = (r'C:/Users/aghas/Desktop/Freelancer/Automação Cadastro/produtos.txt')
+caminho_produtos = (r'.../Desktop/Freelancer/Automação Cadastro/produtos.txt')
 #Abre o programa do cadastro
 subprocess.Popen(programa_cadastro)
 sleep(1)
