@@ -1,0 +1,15 @@
+Produto 1,34,100838.61
+Produto 2,74,125409.27
+Produto 3,25,45365.64
+Produto 4,73,85112.53
+Produto 5,33,114281.31
+Produto 6,58,182561.12
+Produto 7,94,20798.98
+Produto 8,22,107394.88
+Produto 9,82,198135.91
+Produto 10,98,35595.06
+Produto 11,68,163832.15
+Produto 12,99,41097.37
+Produto 13,19,59761.6
+Produto 14,95,77630.2
+Produto 15,65,102311.17
